@@ -1,6 +1,6 @@
 {
-    "name": "2d-sass",
-    "description": "Basic template with Eleventy, LiquidJS & Sass processing",
+    "name": "2e-sass",
+    "description": "Basic template with Eleventy, Nunjucks & Sass processing",
     "url": "",
     "authorName": "Michel Maillard",
     "authorUrl": "https://michelmaillard.ch/",
