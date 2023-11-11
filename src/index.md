@@ -1,6 +1,6 @@
 ---
 title: Welcome
-description: Basic template with Eleventy, LiquidJS & Sass processing.
+description: Basic template with Eleventy, Nunjucks & Sass processing.
 layout: base
 tags: primary
 ---
