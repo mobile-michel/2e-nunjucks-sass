@@ -9,13 +9,13 @@
 </head>
 
 <body>
-    {% include 'header' %}
+    {% include 'header.njk' %}
     <main>
         <h1>{{ title }}</h1>
         <p>{{ description }}</p>
-        {{ content }}
+        {{ content | safe }}
     </main>
-    {% include 'footer' %}
+    {% include 'footer.njk' %}
 </body>
 
 </html>
