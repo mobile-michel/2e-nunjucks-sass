@@ -1,4 +1,4 @@
-# Basic template with Eleventy, LiquidJS & Sass processing
+# Basic template with Eleventy, Nunjucks & Sass processing
 
 ## Folder structure
 
@@ -11,10 +11,10 @@
 
 ## Page layout
 
-- _layouts/base.liquid
-- _components/header.liquid
-- _components/nav.liquid
-- _components/footer.liquid
+- _layouts/base.njk
+- _components/header.njk
+- _components/nav.njk
+- _components/footer.njk
 
 ## Responsive navbar
 
@@ -33,4 +33,3 @@
 
 - "@11ty/eleventy": "^2.0.1",
 - "sass": "^1.69.0"
-- ready for [Decap CMS](https://decapcms.org/) integration.
