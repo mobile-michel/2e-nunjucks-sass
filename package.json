@@ -1,7 +1,7 @@
 {
-    "name": "2d-sass",
+    "name": "2e-sass",
     "version": "1.0.1",
-    "description": "Basic template with Eleventy, LiquidJS & Sass processing",
+    "description": "Basic template with Eleventy, Nunjucks & Sass processing",
     "main": "eleventy.config.js",
     "scripts": {
         "watch:eleventy": "npx @11ty/eleventy --serve",
@@ -12,7 +12,7 @@
     },
     "keywords": [
         "eleventy",
-        "liquidjs",
+        "nunjucks",
         "sass"
     ],
     "author": "Michel Maillard",
