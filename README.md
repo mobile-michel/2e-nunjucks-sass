@@ -5,16 +5,15 @@
 - pages in /src
 - Sass files in /sass
 - layouts in /_layouts
-- includes in /_components
+- includes in /_includes
 - Json files in /_data
 - images & JavaScripts in /assets
 
 ## Page layout
 
 - _layouts/base.njk
-- _components/header.njk
-- _components/nav.njk
-- _components/footer.njk
+- _includes/header.njk
+- _includes/footer.njk
 
 ## Responsive navbar
 
@@ -32,4 +31,4 @@
 ## Dependencies
 
 - "@11ty/eleventy": "^2.0.1",
-- "sass": "^1.69.0"
+- "sass": "^1.69.7"
